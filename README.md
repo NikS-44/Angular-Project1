@@ -1,3 +1,11 @@
+# Instructions for setting up on new machine
+
+#### Install NPM
+#### Run npm install in project directory
+>npm install
+#### Run ng serve
+>ng serve --open
+
 # Project1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
