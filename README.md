@@ -1,7 +1,7 @@
 # Instructions for setting up on new machine
 
 #### Install NPM
-#### Run npm install
+#### Run npm install in project directory
 >npm install
 #### Run ng serve
 >ng serve --open
